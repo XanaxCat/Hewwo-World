@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffca4f</color>
+    <color name="colorPrimaryDark">#ffc02d</color>
+    <color name="colorAccent">#b3ffb3</color>
+    <color name="pizzaCatBG">#3fb290</color>
+    <color name="donutCatBG">#ffd1dc</color>
+    <color name="tacoCatBG">#ffff91</color>
+</resources>

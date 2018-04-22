@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cat Collection</string>
+    <string name="welcome">Tap to see the collection</string>
+    <string name="begin">Begin</string>
+    <string name="collection">Collection</string>
+    <string name="pizzacat">Pizza Cat</string>
+    <string name="donutcat">Donut Cat</string>
+    <string name="tacocat">Taco Cat</string>
+</resources>
